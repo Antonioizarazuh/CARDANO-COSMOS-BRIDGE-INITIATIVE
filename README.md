@@ -26,7 +26,7 @@ You can read the full details in ESCROW_CHARTER.md
 
  Current Status
 
-Read me (README.md)
+Mission & structure defined
 
  Escrow wallet setup in progress
 
