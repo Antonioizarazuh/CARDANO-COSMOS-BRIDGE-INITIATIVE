@@ -22,11 +22,10 @@ Transparent wallet tracking.
 Community-verified releases.
 
 You can read the full details in ESCROW_CHARTER.md
-.
 
  Current Status
 
-Mission & structure defined
+Core vision and funding model established
 
  Escrow wallet setup in progress
 
