@@ -1,7 +1,7 @@
-# 🗓️ UPDATES LOG – Cardano ↔ Cosmos Bridge Initiative  
+# 🗓️ UPDATES LOG – Cardano ↔ Cosmos Bridge Initiative
 
 All project progress, financial reports, and community updates will be logged here.  
-Each entry includes a short summary, date, and author for full transparency.  
+Each entry includes a short summary, date, and author for full transparency.
 
 ---
 
@@ -11,13 +11,13 @@ Each entry includes a short summary, date, and author for full transparency.
 
 **Summary:**  
 - Repository created under the name **CARDANO-COSMOS-BRIDGE-INITIATIVE**.  
-- Published core documentation: `[README.md], `[ESCROW_CHARTER.md], and [ROADMAP.md] .  
+- Published core documentation: [`README.md`](./README.md), [`ESCROW_CHARTER.md`](./ESCROW_CHARTER.md), and [`ROADMAP.md`](./ROADMAP.md).  
 - Defined 12-month escrow policy and transparent milestone structure.  
-- Initial community engagement started via X.  
+- Initial community engagement started via X.
 
 **Next Steps:**  
-- Create and publish initial escrow wallet addresses in `WALLETS.md`.  
-- Recruit 3–5 multisig signers from both Cardano and Cosmos communities.  
+- Create and publish initial escrow wallet addresses in [`WALLETS.md`](./WALLETS.md).  
+- Recruit 3–5 multisig signers from both Cardano and Cosmos communities.
 
 ---
 
@@ -29,12 +29,12 @@ Each entry includes a short summary, date, and author for full transparency.
 - Officially launched the project publicly on GitHub and X.  
 - Published mission statement and vision for the Cardano ↔ Cosmos bridge.  
 - Announced intent to raise funds transparently through escrow.  
-- Shared pinned tweet and repository link for open collaboration.  
+- Shared pinned tweet and repository link for open collaboration.
 
 **Next Steps:**  
 - Begin outreach to developers (Milkomeda, Axelar, Osmosis, IBC core teams).  
 - Identify candidate teams for prototype work (RFP process).  
-- Schedule first community Q&A and open contribution call.  
+- Schedule first community Q&A and open contribution call.
 
 ---
 
