@@ -1,4 +1,4 @@
-# ESCROW_CHARTER
+# ESCROW_CHARTER.md
 
 ## Purpose
 Hold community funds securely to support research, prototyping, testing, and auditing of a **Cardano ↔ Cosmos IBC bridge**. Funds are released only on verified milestones.
