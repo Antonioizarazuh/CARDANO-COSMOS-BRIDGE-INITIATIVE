@@ -11,7 +11,7 @@ Each entry includes a short summary, date, and author for full transparency.
 
 **Summary:**  
 - Repository created under the name **CARDANO-COSMOS-BRIDGE-INITIATIVE**.  
-- Published core documentation: `README.md`, `ESCROW_CHARTER.md`, and `ROADMAP.md`.  
+- Published core documentation: `[README.md], `[ESCROW_CHARTER.md], and [ROADMAP.md] .  
 - Defined 12-month escrow policy and transparent milestone structure.  
 - Initial community engagement started via X.  
 
