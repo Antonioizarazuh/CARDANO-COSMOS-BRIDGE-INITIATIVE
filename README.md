@@ -2,14 +2,14 @@
 
 ### 🧭 Vision  
 The goal is simple but powerful: to build a **transparent, community-funded Cardano ↔ Cosmos IBC bridge.**  
-We believe both ecosystems share the same values — decentralization, security, and innovation — and deserve to connect.  
+We believe both ecosystems share the same values, decentralization, security, and innovation, and deserve to connect.  
 
 ---
 
 ### 💙 Mission  
 To unite developers, communities, and supporters from both Cardano and Cosmos to design and fund a secure, open-source interoperability layer.  
 
-This bridge isn’t just about moving tokens — it’s about **building trust and cooperation** between two of the most principled blockchain networks in existence.  
+This bridge isn’t just about moving tokens,  it’s about **building trust and cooperation** between two of the most principled blockchain networks in existence.  
 
 ---
 
