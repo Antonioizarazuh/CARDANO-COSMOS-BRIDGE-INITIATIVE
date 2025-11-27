@@ -1,3 +1,5 @@
+> NOTE: Legacy document from the early escrow-based design. This is NOT used in the current trustless ZKADA architecture.
+
 # 🧠 FEASIBILITY REPORT  
 ## Cardano ↔ Cosmos IBC Bridge  
 
