@@ -1,3 +1,5 @@
+> NOTE: This was part of an older escrow-based concept and is NOT used in the current ZKADA trustless design.
+
 # 🏦 ESCROW CHARTER  
 
 ## 🎯 Purpose  
