@@ -140,5 +140,3 @@ Milestone 5 — Security model
 Milestone 6 — Phase 2 roadmap
 
 It will be expanded step-by-step as milestones are delivered.
-
-End of ARCHITECTURE.md
