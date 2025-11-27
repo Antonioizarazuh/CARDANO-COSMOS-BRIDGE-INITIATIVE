@@ -132,5 +132,3 @@ precise datum/redeemer types
 test harness using plutus-test / aiken test
 
 This contract will be implemented in Phase 2 after research completion.
-
-End of LOCKBOX_SPEC.md
